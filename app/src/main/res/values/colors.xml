@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff7300</color>
+    <color name="colorPrimaryDark">#d77300</color>
+    <color name="colorAccent">#da3a00</color>
+    <color name="colorTop">#9b0800</color>
+    <color name="colorBottom">#890606</color>
+    <color name="colorbg">#d6ffffff</color>
+    <color name="colorbg2">#cce9d6c8</color>
+
+    <drawable name="colorbgSelect">#cc4cb8fa</drawable>
+    <color name="TextColor">#ffffff</color>
+
+</resources>
+
